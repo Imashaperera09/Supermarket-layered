@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/dao/DaoFactory.java</file>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/controller/CustomerController.java</file>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/controller/ItemController.java</file>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/dto/ItemDto.java</file>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/dto/CustomerDto.java</file>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/dao/DriverManager.java</file>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/dao/DBConnection.java</file>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/dao/CrudUtil.java</file>
+            <file>file:/D:/CMJD97/projects/New%20Folder/Supermarket-layered/src/supermarket/layered/dao/custom/CustomerDao.java</file>
+        </group>
+    </open-files>
+</project-private>
